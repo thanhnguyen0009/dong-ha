@@ -780,7 +780,7 @@ input::placeholder, textarea::placeholder{
 }
 
 
-.lb-endd{
+.lb-end{
     font-family: var(--font-lora);
     font-size: .4em;
     margin-bottom: 50px;
