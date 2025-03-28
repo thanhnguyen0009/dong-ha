@@ -749,14 +749,14 @@ input::placeholder, textarea::placeholder{
     margin-top: 100px;
 }
 
-.lb-end1{
+.lb-endd1{
     font-family: var(--font-lora);
     font-size: .5em;
     letter-spacing: .5px;
     font-weight: 300;
     margin: 100px 0 5px;
 }
-.lb-end2{
+.lb-endd2{
     font-family: var(--font-lora);
     font-size: .5em;
     letter-spacing: .5px;
@@ -780,7 +780,7 @@ input::placeholder, textarea::placeholder{
 }
 
 
-.lb-end{
+.lb-endd{
     font-family: var(--font-lora);
     font-size: .4em;
     margin-bottom: 50px;
@@ -957,7 +957,7 @@ input::placeholder, textarea::placeholder{
     .lb-slider2{
         font-size: .6em;
     }
-    .lb-end1, .lb-end2{
+    .lb-endd1, .lb-endd2{
         font-size: .4em;
     }
   }
