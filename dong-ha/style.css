@@ -115,49 +115,49 @@
   }
   
   /* Hiệu ứng fade-up */
-  .lb1-p2, .lb2-p2, .timeline, .in-fe, .container-check, .inp-ten, .lb-text, #loi-chuc{
+  .lb1-p2, .lb2-p2, .lb3-p2, .lb4-p3, .lb5-p3, .in-fe, .container-check, .inp-ten, .lb-text, #loi-chuc{
     transform: translateY(50px);
     opacity: 0;
     transition: transform 0.5s, opacity 0.5s;
   }
   
-  .lb1-p2.visible, .lb2-p2.visible, .timeline.visible, .in-fe.visible, .container-check.visible, .inp-ten.visible, .lb-text.visible, #loi-chuc.visible{
+  .lb1-p2.visible, .lb2-p2.visible, .lb3-p2.visible, .lb4-p3.visible, .lb5-p3.visible, .in-fe.visible, .container-check.visible, .inp-ten.visible, .lb-text.visible, #loi-chuc.visible{
     transform: translateY(0);
     opacity: 1;
   }
   
   /* Hiệu ứng fade-right */
-  .box-nu, . {
+  .box-nu{
     transform: translateX(-50px);
     opacity: 0;
     transition: transform 0.5s, opacity 0.5s;
   }
   
-  .box-nu.visible, ..visible{
+  .box-nu.visible{
     transform: translateX(0);
     opacity: 1;
   }
   
   /* Hiệu ứng fade-left */
-  .box-nam, . {
+  .box-nam{
     transform: translateX(50px);
     opacity: 0;
     transition: transform 0.5s, opacity 0.5s;
   }
   
-  .box-nam.visible, ..visible {
+  .box-nam.visible{
     transform: translateX(0);
     opacity: 1;
   }
   
   /* Hiệu ứng zoom-in */
-  .box-p1, .img-timeline, .img-maps, .til1, .til2, .img-time, .img-time2, .box-album2, .xacnhan{
+  .img-timeline, .img-maps, .til1, .til2, .img-time, .img-time2, .box-album2, .xacnhan{
     transform: scale(0.5);
     opacity: 0;
     transition: transform 0.5s, opacity 0.5s;
   }
   
-  .box-p1.visible, .img-timeline.visible, .img-maps.visible, .til1.visible, .til2.visible, .img-time.visible, .img-time2.visible, .box-album2.visible, .xacnhan.visible {
+  .img-timeline.visible, .img-maps.visible, .til1.visible, .til2.visible, .img-time.visible, .img-time2.visible, .box-album2.visible, .xacnhan.visible {
     transform: scale(1);
     opacity: 1;
   }
