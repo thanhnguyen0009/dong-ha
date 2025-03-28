@@ -751,14 +751,14 @@ input::placeholder, textarea::placeholder{
 
 .lb-endd1{
     font-family: var(--font-lora);
-    font-size: .5em;
+    font-size: 9px;
     letter-spacing: .5px;
     font-weight: 300;
     margin: 100px 0 5px;
 }
 .lb-endd2{
     font-family: var(--font-lora);
-    font-size: .5em;
+    font-size: 9px;
     letter-spacing: .5px;
     font-weight: 300;
     text-transform: uppercase;
@@ -957,8 +957,11 @@ input::placeholder, textarea::placeholder{
     .lb-slider2{
         font-size: .6em;
     }
-    .lb-endd1, .lb-endd2{
-        font-size: .3em;
+    .lb-endd1{
+        font-size: 8px;
+    }
+    .lb-endd2{
+        font-size: 7.5px;
     }
   }
   
